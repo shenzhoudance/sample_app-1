@@ -52,8 +52,17 @@ textarea {
     resize: vertical;
 }
 
+.container {
+    color: #4b8cac;
+}
+
 .center {
     text-align: center;
+}
+
+.navbar-inverse {
+    background-color: #d6d6d65e;
+    border-color: #3a050530;
 }
 
 .center h1 {
@@ -67,7 +76,7 @@ textarea {
     float: left;
     margin-right: 10px;
     font-size: 1.7em;
-    color: #fff;
+    color: #250c0c;
     text-transform: uppercase;
     letter-spacing: -1px;
     padding-top: 9px;
